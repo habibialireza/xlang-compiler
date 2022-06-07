@@ -72,6 +72,6 @@ void yyerror2(int a) {
 }
 
 int main(void) {
-   // freopen ("a.txt", "r", stdin);  //a.txt holds the expression
+   // freopen ("a.txt", "r", stdin);  //a.txt holds the expression // mokh
     yyparse();
 }
