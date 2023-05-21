@@ -1,0 +1,7 @@
+class Program {
+
+int y[2];
+int main(){
+x[1] = 3;
+}
+}
